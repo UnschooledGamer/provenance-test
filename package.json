@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UnschooledGamer/provenance-test"
+  },
   "dependencies": {
     "test": "^3.3.0"
   }
